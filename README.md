@@ -3,10 +3,10 @@ A Mardi Gras Masquerade using FaceAR and echo3D! Which Mardi Gras mask will you 
 # Register
 Don't have an API key? Make sure to register for FREE at [echo3D](https://www.echo3d.co/).
 
-# How to Use:
+# How to Use
 User shuffles between 3 masks by clicking the screen. Underneath the camera canvas is a reset button that will reset to the first mask.
 
-# Setup:
+# Setup
 
 - Go to [echo3D console](https://console.echo3d.co/#/pages/contentmanager) and click "Add to Cloud" in the upper-left hand corner. Search for models by typing in "mardi gras mask" and add 3 masks to your console.
 - In the echo3D console, click the ^ arrow on the mask to open the metadata table and click the +Add Data button to add 2 parameters. For the first metadata set, select "scale" and enter "10". For the second metadata set, select "yAngle" and enter "-180". Do this for all three masks.
@@ -21,7 +21,7 @@ User shuffles between 3 masks by clicking the screen. Underneath the camera canv
 - Next to forwarding, copy and paste the given https link (ex: [https://8418-168-122-7-164.ngrok.io]https://8418-168-122-7-164.ngrok.io/) and send to your phone.
 - Open the link on your phone
 
-# Learn more
+# Learn More
 Refer to our [documentation](https://docs.echo3d.co/) to learn more about how to use FaceAR and echo3D.
 
 # Support
